@@ -1,2 +1,2 @@
-# espa-ol-palabras
+# español-palabras
 html-Spanish-wordlist
